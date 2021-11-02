@@ -1,0 +1,18 @@
+body
+{
+    text-align: center;
+    background-image:url("yes.jpg");
+}
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+}
+h3
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+label
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
